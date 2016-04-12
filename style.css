@@ -6,7 +6,7 @@ body {
 }
 
 .menu {
-  background: url('Pildid/taust.jpg');
+  background: url('taust.jpg');
   left: -285px;
   height: 100%;
   position: fixed;
@@ -14,7 +14,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url('Pildid/meri.jpg'); 
+  background-image: url('meri.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
